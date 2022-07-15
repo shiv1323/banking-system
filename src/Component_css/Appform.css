@@ -1,0 +1,45 @@
+.additional,
+.close__ {
+    background-color: transparent;
+    border: none;
+    color: #4caf50;
+}
+
+.additional:hover {
+    background-color: #8A2BE2;
+}
+
+.close__:hover {
+    background-color: transparent;
+    color: black;
+}
+
+.close__ {
+    color: #6c757d;
+}
+
+.hover__ {
+    border: none;
+    border-bottom: 1px solid;
+    border-radius: 0;
+
+}
+
+.hover__:hover {
+    border-bottom-color: #4caf50;
+}
+
+.btn:focus {
+    outline: none !important;
+    box-shadow: none !important;
+    outline-offset: none !important;
+}
+
+.btn-close:focus {
+    box-shadow: none
+}
+
+.form-control:focus {
+    box-shadow: none;
+    outline: none;
+}

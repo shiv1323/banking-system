@@ -1,0 +1,33 @@
+/* #83e38d */
+.back_over {
+    background-image: -webkit-linear-gradient(61deg, #83e38d 50%, #E4E9FD 50%);
+    height: 100vh;
+}
+
+.my-info {
+    padding: 2rem 5rem;
+}
+
+.btn-info {
+    padding: 1rem 1.2rem;
+    background-color: rgb(78, 153, 223) !important;
+    color: #fff !important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    border-radius: 25px;
+    transition: all 0.3s;
+}
+
+.addditional {
+    background-color: #8A2BE2 !important;
+}
+
+.btn:focus {
+    outline: none !important;
+    box-shadow: none !important;
+    outline-offset: none !important;
+}
+
+input:focus {
+    outline: none;
+}

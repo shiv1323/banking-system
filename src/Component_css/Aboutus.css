@@ -1,0 +1,9 @@
+.background__ {
+    background-image: -webkit-linear-gradient(52deg, #A683E3 50%, #E4E9FD 50%);
+    /* height: 100vh; */
+}
+
+.image__ {
+    height: 426px;
+    width: 640px;
+}

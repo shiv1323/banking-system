@@ -1,0 +1,44 @@
+.why {
+    background-color: aliceblue !important;
+}
+
+.why-us {
+    padding-top: 10vh;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10vh;
+}
+
+.why-us>h1 {
+    font-size: 45px;
+    font-weight: 800;
+    margin-bottom: 20px;
+    color: hsl(233, 26%, 24%);
+}
+
+.features-section {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding-bottom: 10vh;
+}
+
+.feature-item>img {
+    width: 65px;
+    margin-bottom: 5px;
+}
+
+.feature-item>p {
+    color: hsl(233, 8%, 62%);
+    font-weight: 700;
+}
+
+.why-us>p {
+    color: hsl(233, 8%, 62%);
+    margin-bottom: 15px;
+    font-weight: 700;
+}

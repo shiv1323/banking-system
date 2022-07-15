@@ -1,0 +1,34 @@
+.overlay {
+    color: #fff;
+    position: absolute;
+    z-index: 12;
+    top: 25%;
+    left: 25%;
+    text-align: justify;
+}
+
+.overlay .container h1 {
+    font-size: 89px !important;
+    font-weight: bold;
+
+}
+
+.addition__ {
+    margin-left: 2.9%;
+}
+
+.addition-btn {
+    width: 179px;
+    height: 48px;
+    outline: none;
+    background: #8A2BE2;
+    margin-right: 5%;
+    margin-top: 12%;
+}
+
+.addition__ h3 {
+
+    margin-top: 14px;
+    margin-left: 32px;
+
+}
